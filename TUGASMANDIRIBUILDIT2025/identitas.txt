@@ -1,0 +1,4 @@
+Nama = Kal - El Ahmad Farrell
+NIM = 2505551021
+Username Hackerrank = @kalelfarrel
+
